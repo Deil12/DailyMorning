@@ -25,15 +25,15 @@ CITY: 城市，不要加市，准确到地级市。比如：北京、天津、�
 
 模版2
 💓可爱的{{name.DATA}} 
-📅{{date.DATA}} 
+{{date.DATA}} 
 
-🌍城市：{{city.DATA}} 
+城市：{{city.DATA}} 
 ☁️天气：{{weather.DATA}} 
 🌡️当前温度：{{now_temperature.DATA}} 
 🌕最低气温：{{min_temperature.DATA}}
 🌞最高气温：{{max_temperature.DATA}}  
-❤️我们已经恋爱{{love_date.DATA}}天❤❤❤
-🎂距离小笨蛋的生日还有：{{birthday1.DATA}}  
+🎂{{birthday1.DATA}}  
+今天是我们恋爱的第{{love_day.DATA}}天❤❤❤  
 
 💬今天也要乖乖的多喝水~(^▽^)
 {{note_en.DATA}}
