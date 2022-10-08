@@ -7,7 +7,7 @@ START_DATE: 正数日期，格式：2008-08-08<br>
 CITY: 城市，不要加市，准确到地级市。比如：北京、天津、广州、承德。  
 ~~具体可以移步 https://github.com/rxrw/daily_morning 寻找几个关键参数~~  该项目已经闭源   <br>
 
-VX模板如下  
+模板1  
 {{date.DATA}}   
 城市：{{city.DATA}}   
 天气：{{weather.DATA}}   
@@ -22,7 +22,24 @@ VX模板如下
   
 {{note_en.DATA}}   
 {{note_ch.DATA}}  
-      
+
+模版2
+💓可爱的：{{name.DATA}} 
+📅今天是：{{date.DATA}} 
+
+🌍地区：{{city.DATA}} 
+☁️今日天气：{{weather.DATA}} 
+🌡️当前温度：{{now_temperature.DATA}} 
+🌕今日最低温度：{{min_temperature.DATA}}
+🌞今日最高温度：{{max_temperature.DATA}}  
+❤️我们已经恋爱：{{love_date.DATA}}  
+🎂距离小笨蛋的生日还有：{{birthday1.DATA}}  
+
+💬{{note_en.DATA}}
+{{note_ch.DATA}}
+今天也要乖乖的多喝水~(^▽^)
+ʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
+
 效果如图
 ![7DD39B07860A54664A542CE7202B8E9D](https://user-images.githubusercontent.com/64049788/187068544-f7a97567-d1f3-42d5-a762-7357c5c3d113.png)
 
