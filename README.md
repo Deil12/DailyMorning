@@ -24,20 +24,20 @@ CITY: 城市，不要加市，准确到地级市。比如：北京、天津、�
 {{note_ch.DATA}}  
 
 模版2
-💓可爱的：{{name.DATA}} 
-📅今天是：{{date.DATA}} 
+💓可爱的{{name.DATA}} 
+📅{{date.DATA}} 
 
-🌍地区：{{city.DATA}} 
-☁️今日天气：{{weather.DATA}} 
+🌍城市：{{city.DATA}} 
+☁️天气：{{weather.DATA}} 
 🌡️当前温度：{{now_temperature.DATA}} 
-🌕今日最低温度：{{min_temperature.DATA}}
-🌞今日最高温度：{{max_temperature.DATA}}  
-❤️我们已经恋爱：{{love_date.DATA}}  
+🌕最低气温：{{min_temperature.DATA}}
+🌞最高气温：{{max_temperature.DATA}}  
+❤️我们已经恋爱{{love_date.DATA}}天❤❤❤
 🎂距离小笨蛋的生日还有：{{birthday1.DATA}}  
 
-💬{{note_en.DATA}}
+💬今天也要乖乖的多喝水~(^▽^)
+{{note_en.DATA}}
 {{note_ch.DATA}}
-今天也要乖乖的多喝水~(^▽^)
 ʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
 
 效果如图
