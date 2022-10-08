@@ -1,7 +1,3 @@
-# DailyMorning
-# 给庆宝的每日早安<br>
-################### 为了怕小伙伴们直接运行，我做了脱敏处理###################  <br>
-<br>需要修改的，直接Fork到自己的仓库，修改config的里面的参数就行。<br>
 APP_ID: 公众平台 appID<br>
 APP_SECRET: 公众平台 appSecret<br>
 TEMPLATE_ID: 模板 ID<br>
