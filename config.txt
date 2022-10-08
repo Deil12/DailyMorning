@@ -10,6 +10,7 @@
 "user": ["o07dv6cesZq5S9SJN38IdUIwC1yI", "o07dv6ak7TqEjVK8z2teGyUFX01A"],
 
 # 信息配置
+"name": "秃头小萝卜",
 # 所在省份
 "province": "广东",
 # 所在城市
